@@ -45,7 +45,10 @@
 #define MOUSE_MOVE_LEFT     -3
 #define MOUSE_MOVE_RIGHT    -4
 
-#include "settings.h"
+//#include "settings.h"
+
+// use my settings
+#include "my_settings.h"
 
 /////////////////////////
 // STRUCT ///////////////
